@@ -22,3 +22,8 @@
 .notion-page-icon-wrapper {
     display: none;
 }
+
+.notion-page-scroller{
+    background: blue;   
+
+}
