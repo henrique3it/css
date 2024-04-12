@@ -1,0 +1,24 @@
+.notion-callout{
+    border-radius: 8px !important;
+}
+.notion-column .notion-callout {
+    margin: 0 0px !important;
+}
+.notion-callout.bg-gray-light.border {
+    border-color: var(--color-bg-gray-light);
+        flex-direction: row !important;
+
+}
+
+.notion-blue {
+    --notion-blue: #026EFA
+}
+
+/* sumir com header do notion */
+
+.notion-title-container {
+    display: none;
+}
+.notion-page-icon-wrapper {
+    display: none;
+}
